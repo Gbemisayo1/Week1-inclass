@@ -1,7 +1,7 @@
 # Week 1 In-Class Assignment
 
 **Author:** Gbemisayo Adelaja  
-**Course:** MEDIART213 – Interactive Media Design  
+**Course:** MEDIART213 
 **Instructor:** Prof Dingyi Xu 
 **Date:** 22/10/2025
 
