@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Imperial+Script&family=Megrim&family=MonteCarlo&display=swap');
+
+
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-variant: normal;
+    color: #36093f;
+    text-shadow:  #C48E84 2px 0 10px;;
+}
+
+h2{
+  font-family: "DM Serif Text", serif;
+  font-weight: 100;
+  font-style: italic;
+  font-size: 22px;
+}
+
+h3{
+    font-family: "DM Serif Text", serif;
+    font-weight: 100;
+    font-style: italic;
+    text-align: right;
+    font-size: 22px;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.row1c{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.row3b{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.row1 {
+    border-block: 0.5rem solid;
+    writing-mode: horizontal-tb;
+    direction: rtl;
+}
