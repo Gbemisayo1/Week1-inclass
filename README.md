@@ -31,7 +31,7 @@ In this exercise, I created a simple website that focuses on **three main questi
 
 To view the website:
 1. Download or clone this repository.
-2. Open the `index.html` file in any web browser.
+2. Open the `index.html` file in visual studio code.
 
 ---
 
